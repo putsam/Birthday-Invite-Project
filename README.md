@@ -1,2 +1,2 @@
 # Birthday-Invite-Project
-Tutorial Birthday Invite Project
+Birthday Invite Project
